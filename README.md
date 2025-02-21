@@ -1,4 +1,4 @@
-# Lung Cancer Classification using Computerized Tomography (CT) Data
+# Stock Forecasting and Portfolio Optimization using Machine Learning techniques and modern portfolio theory
 
 ### Laboratory of Artificial Intelligence and Data Science
 ### Project 2 - 2024 / 2025
